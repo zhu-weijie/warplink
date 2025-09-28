@@ -29,9 +29,9 @@ This decoupled approach ensures that the complex task of generating unique keys 
 
 ---
 
-#### **3. Design the Architecture-as-Code (AaC)**
+#### **Design the Architecture-as-Code (AaC)**
 
-Here are the three required artifacts for this issue: the Logical View, the Physical View, and the Mapping Table.
+Here are the three artifacts for this milestone: the Logical View, the Physical View, and the Mapping Table.
 
 **Artifact 1: Logical View (C4 Component Diagram)**
 
